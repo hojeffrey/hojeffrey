@@ -2,7 +2,7 @@
 
 I hope this horribly photoshopped picture of myself when I was high school with Jack Ma as a way to understand my personaility :)
 
-<img align="right" alt="JPG" src="https://raw.githubusercontent.com/hojeffrey/main/artwork/Jeff_and_Jack.JPG" />
+<img align="right" alt="JPG" src="https://raw.githubusercontent.com/hojeffrey/hojeffrey/main/artwork/Jeff_and_Jack.JPG" />
 
 ``` yaml
 name: hojeffrey 
