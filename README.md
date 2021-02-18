@@ -1,6 +1,6 @@
 ### Hi, I'm Jeffrey Ho
 
-I hope this horribly photoshopped picture of myself when I was high school with Jack Ma is a way to understand my personaility :)
+I hope this horribly photoshopped picture of myself when I was high school with Jack Ma is a way to understand my personality :)
 
 <img align="right" alt="JPG" src="https://raw.githubusercontent.com/hojeffrey/hojeffrey/main/artwork/Jeff_and_Jack.JPG" width="350">
 
@@ -15,7 +15,7 @@ interests:
   - siem and threat dection/analysis
   - application security
   - security/workflow automation
-  - vulnerability managment
+  - vulnerability management
 
 tools:
   - iam: okta, auth0
