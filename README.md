@@ -12,15 +12,15 @@ title: security engineer
 
 interests:
   - identity and access management
-  - vulnerability managment
-  - security/workflow automation
+  - siem and threat dection/analysis
   - application security
-  - sien and threat dection/analysis
+  - security/workflow automation
+  - vulnerability managment
 
 tools:
-  - iam: Okta, Auth0
-  - vulneability management/application security: Rapid7, Nessus, Burpsuite Pro 
+  - iam: okta, auth0
   - siem: splunk, sumologic, elk stack 
+  - hacking: rapid7, burpsuite pro, nmap
   
 programming-languages:
   - python
