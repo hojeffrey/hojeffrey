@@ -7,18 +7,23 @@ I hope this horribly photoshopped picture of myself when I was high school with 
 ``` yaml
 name: hojeffrey 
 
-company: Major League Baseball
-title: Security Engineer
+company: major league baseball
+title: security engineer
 
 interests:
-  - Identity and Access Management
-  - Vulnerability Managment
-  - Security/Workflow Automation
-  - Application Security
-  - SIEM and Threat Dection/Analysis
+  - identity and access management
+  - vulnerability managment
+  - security/workflow automation
+  - application security
+  - sien and threat dection/analysis
+
+tools:
+  - iam: Okta, Auth0
+  - vulneability management/application security: Rapid7, Nessus, Burpsuite Pro 
+  - siem: splunk, sumologic, elk stack 
   
 programming-languages:
   - python
-  - JAVA 
+  - java
 
 ```
