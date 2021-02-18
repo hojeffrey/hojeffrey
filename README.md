@@ -1,8 +1,8 @@
 ### Hi, I'm Jeffrey Ho
 
-I hope this horribly photoshopped picture of myself when I was high school with Jack Ma as a way to understand my personaility :)
+I hope this horribly photoshopped picture of myself when I was high school with Jack Ma is a way to understand my personaility :)
 
-<img align="right" alt="JPG" src="https://raw.githubusercontent.com/hojeffrey/hojeffrey/main/artwork/Jeff_and_Jack.JPG" width="200">
+<img align="right" alt="JPG" src="https://raw.githubusercontent.com/hojeffrey/hojeffrey/main/artwork/Jeff_and_Jack.JPG" width="350">
 
 ``` yaml
 name: hojeffrey 
